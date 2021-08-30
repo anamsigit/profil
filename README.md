@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anamsigit from Central Java
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning chemistry at Yogyakarta State University on bachelor program, besides it i learning web development, python and maybe C++
+- 💞️ I’m looking to collaborate on projects related to the application of Mathematics and Natural Sciences
+- 📫 reach me on Instagram (@anamsigit) or email (anamsigit@outlook.com)
